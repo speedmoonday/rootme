@@ -1,0 +1,7 @@
+@font-face{
+  font-family:x;
+  src:url(https://attacker.tld/hit)
+}
+body{
+  background:url(https://attacker.tld/img)
+}
